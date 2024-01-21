@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Proyectos\Rust-ical\OxideEngine\engineTester\target\debug\deps\winapi_util-3112ed310a6dac76.rmeta: C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\lib.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\console.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\file.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\sysinfo.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\win.rs
+
+C:\Users\Usuario\Desktop\Proyectos\Rust-ical\OxideEngine\engineTester\target\debug\deps\libwinapi_util-3112ed310a6dac76.rlib: C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\lib.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\console.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\file.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\sysinfo.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\win.rs
+
+C:\Users\Usuario\Desktop\Proyectos\Rust-ical\OxideEngine\engineTester\target\debug\deps\winapi_util-3112ed310a6dac76.d: C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\lib.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\console.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\file.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\sysinfo.rs C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\win.rs
+
+C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\lib.rs:
+C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\console.rs:
+C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\file.rs:
+C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\sysinfo.rs:
+C:\Users\Usuario\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-util-0.1.6\src\win.rs:
